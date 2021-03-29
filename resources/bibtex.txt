@@ -1,0 +1,7 @@
+@inproceedings{zhang2021automatic,
+  title={Automatic Calibration of the Fisheye Camera for Egocentric 3D Human Pose Estimation From a Single Image},
+  author={Zhang, Yahui and You, Shaodi and Gevers, Theo},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={1772--1781},
+  year={2021}
+}
